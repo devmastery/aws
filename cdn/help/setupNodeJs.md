@@ -34,7 +34,7 @@ sudo forever-service delete dimusic
 
 ##Service Operations
 
-sudo service dimusic start 
-sudo service dimusic stop
-sudo service dimusic restart
-sudo service dimusic status
+p sudo service dimusic start 
+p sudo service dimusic stop
+p sudo service dimusic restart
+p sudo service dimusic status
